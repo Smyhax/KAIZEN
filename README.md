@@ -30,7 +30,7 @@ Ce projet a pour objectif de créer une infrastructure cloud évolutive et rési
 ## Contributeurs
 
 * kgodefroy28010400 , Konogan Godefroy
-* ATHIEBOT          , Alex Thiebot
+* thia22010400      , Alex Thiebot
 
 ## Licence
 
